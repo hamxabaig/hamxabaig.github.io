@@ -8,6 +8,7 @@ Software Engineer, Full Stack JS Engineer, JS Evangelist, AI Enthusiast
 <div id="webaddress">
   <a href="hamzabaig18@gmail.com">Email</a>
 | <a href="https://medium.com/@hamxabaig">Blog</a>
+| <a href="https://github.com/hamxabaig">Github</a>
 | <a href="https://twitter.com/hamxabaig_">Twitter</a>
 | <a href="http://linkedin.com/in/hamxabaig">LinkedIn</a>
 </div>
@@ -27,7 +28,7 @@ Image Editing via Deep Learning, MicroServices architecture
 
 ### Open Source
 
-I'm an author & contributer to many open source projects. I try to give back what i take from this awesome community as much as possible. Some of my projects i'm working on are
+I'm an author & contributor to many open source projects. I try to give back what i take from this awesome community as much as possible. Some of my projects i'm working on are
 - [react-unsplash-like-gallery](https://github.com/hamxabaig/react-unsplash-like-gallery)
 - [redux-api-middleware-interceptor](https://github.com/hamxabaig/redux-api-middleware-interceptor)
 
@@ -46,6 +47,6 @@ __National University of Sciences & Technology (NUST)__
 
 ### Footer
 
-This page is maintained with :heart: & :coffee: by [Hamza Baig](https://github.com/hamxabaig); [Template](https://github.com/elipapa/markdown-cv)
+This page is maintained with ❤️ & ☕️ by [Hamza Baig](https://github.com/hamxabaig); [Template](https://github.com/elipapa/markdown-cv)
 
 
