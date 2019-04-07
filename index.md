@@ -20,7 +20,7 @@ Senior Full Stack Engineer [@ListenField](https://twitter.com/listenfield), Lead
 
 ### Specialized in
 
-I have diverse skill set as a full stack engineer. I have proven production grade experience in [ReactJS](https://github.com/facebook/react), [Redux](http://redux.js.org), [NodeJS](https://github.com/nodejs/node), [HapiJS](https://github.com/hapijs/), [Docker](http://docker.com), [AWS](https://aws.amazon.com), DevOps
+I have diverse skill set as a full stack engineer. I have proven production experience in [ReactJS](https://github.com/facebook/react), [Redux](http://redux.js.org), [NodeJS](https://github.com/nodejs/node), [HapiJS](https://github.com/hapijs/), [Docker](http://docker.com), [AWS](https://aws.amazon.com), DevOps
 
 ### Research interests
 
@@ -29,8 +29,9 @@ Image Editing via Deep Learning, MicroServices architecture
 ### Open Source
 
 I'm an author & contributor to many open source projects. I try to give back what i take from this awesome community as much as possible. Some of my projects i'm working on are
-- [react-unsplash-like-gallery](https://github.com/hamxabaig/react-unsplash-like-gallery)
 - [redux-api-middleware-interceptor](https://github.com/hamxabaig/redux-api-middleware-interceptor)
+- [s3-filename](https://github.com/hamxabaig/s3-filename)
+- [url-from-template](https://github.com/hamxabaig/url-from-template)
 
 
 ## Education
