@@ -187,7 +187,13 @@ strong {
 	display: none;
 }
 
-
+img.profile {
+	position: absolute;
+	height: 100px;
+	left: 14%;
+	border-radius: 5px;
+	margin-top: 5px;
+}
 
 /*
 @media only screen and (max-width: 480px) {
