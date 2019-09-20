@@ -32,6 +32,7 @@ I'm an author & contributor to many open source projects. I try to give back wha
 - [redux-api-middleware-interceptor](https://github.com/hamxabaig/redux-api-middleware-interceptor)
 - [s3-filename](https://github.com/hamxabaig/s3-filename)
 - [url-from-template](https://github.com/hamxabaig/url-from-template)
+- [react-unsplash-grid-gallery](https://github.com/hamxabaig/react-unsplash-grid-gallery)
 
 
 ## Education
