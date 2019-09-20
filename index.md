@@ -6,7 +6,7 @@ title: Hamza Baig's CV
 Software Engineer, Full Stack JS Engineer, JS Evangelist, AI Enthusiast
 
 <div id="webaddress">
-  <a href="hamzabaig18@gmail.com">Email</a>
+  <a href="mailto:hamzabaig18@gmail.com">Email</a>
 | <a href="https://medium.com/@hamxabaig">Blog</a>
 | <a href="https://github.com/hamxabaig">Github</a>
 | <a href="https://twitter.com/hamxabaig_">Twitter</a>
