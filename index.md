@@ -16,7 +16,7 @@ Software Engineer, Full Stack JS Engineer, JS Evangelist, AI Enthusiast
 
 ## Currently
 
-Senior Full Stack Engineer [@ListenField](https://twitter.com/listenfield), Lead maintainer [@thinblock](https://twitter.com/thinblock)
+Senior Full Stack Engineer [@ListenField](https://www.listenfield.com), Lead maintainer [@thinblock](https://twitter.com/thinblock)
 
 ### Specialized in
 
