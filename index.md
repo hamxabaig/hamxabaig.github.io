@@ -45,7 +45,8 @@ __National University of Sciences & Technology (NUST)__
 
 `13-05-2018`
 [How we reduced the weight of our 80k+ images from 222gb to 65gb](https://medium.com/le-craft/how-we-reduced-the-weight-of-our-80k-images-from-222gb-to-65gb-f066b4e8a471)
-
+`22-09-2019`
+[Re-thinking my approach in working with git](https://medium.com/@hamxabaig/re-thinking-my-approach-in-working-with-git-d61453256364)
 
 ### Footer
 
